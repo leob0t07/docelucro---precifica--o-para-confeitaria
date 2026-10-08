@@ -1,0 +1,6 @@
+{
+  "name": "DoceLucro - Precificação para Confeitaria",
+  "description": "Descubra o preço exato das suas receitas em 30 segundos pelo celular — sem tabelas complexas e sem matemática chata. O app sob medida para confeiteiras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
